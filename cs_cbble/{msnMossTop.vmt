@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"cs_cbble\{msnMossTop"
+	"$alphatest"	"1"
+	"$ALPHATESTREFERENCE"	"0.5"
+}
